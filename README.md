@@ -1,52 +1,74 @@
-<p align="center">
-  <img src="<image-tokens-bardstorage://RESPONSE_DATA:c4b20b40a337f9c3000643039d91387b07f573f94500b95b:145524671408018335962776887563171317:1:>" width="850px" alt="Nguyễn Tín (Lowii) Coding Under Sakura">
-</p>
-
-<h1 align="center">Hi there, I'm Nguyễn Tín (aka Lowii) 👋</h1>
-<h3 align="center">A Gen Z Dev from Vietnam 🇻🇳<br>Passionate about Web/App Development & Scripting ✨</h3>
+<h1 align="center">
+  Hi there, I'm Nguyễn Tín (Lowii)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <p align="center">
-  <a href="[LINK-FACEBOOK-CUA-BAN]" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="[LINK-INSTAGRAM-CUA-BAN]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="[LINK-TIKTOK-CUA-BAN]" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-</p>
-<br>
-
-<p align="center">
-  🔭 I’m currently building awesome **Web & Mobile Apps**
-  <br>
-  🌱 I’m always learning and exploring **new technologies and scripting**
-  <br>
-  ⚡ Fun fact: I'm a **2k6** developer (22/06)
-</p>
-
-<br>
-
-<h3 align="center">🚀 My Core Stack</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,lua,csharp,git,vscode&perline=5" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=I'm+a+Web+%26+App+Developer;UI%2FXI+Designer;Ethical+Hacker+%2F+Coder;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </p>
 
-<br>
+---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEN-CUA-BAN&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEN-CUA-BAN&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+### 👨‍💻 About Me
+
+<p align="left">
+  <img align="right" width="45%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+  - 🧑‍💼 **Name:** Nguyễn Tín (aka **Lowii**)
+  - 🎂 **Age:** 19 (Born: 22/06/2006)
+  - 🇻🇳 **Location:** Vietnam
+  - 💻 **My Skills:** Web Dev, Mobile App Dev, UI/UX Design & Security.
+  
+  - 🔭 I’m currently working on... *[BẠN ĐIỀN DỰ ÁN CỦA BẠN VÀO ĐÂY]*
+  - 🌱 I’m currently learning... *[CÔNG NGHỆ BẠN ĐANG HỌC]*
+  - 💬 Ask me about anything, I'm happy to help!
+
 </p>
 
-<br>
+### 📬 Connect with me
 
-<h3 align="center">🐍 My Activity</h3>
+<p align="left">
+  <a href="[LINK_FACEBOOK_CUA_BAN]" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="lowii-fb" /></a>
+  <a href="mailto:[EMAIL_CUA_BAN]" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lowii-email" /></a>
+  <a href="https://discord.com/users/[YOUR_DISCORD_ID]" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="lowii-discord" /></a>
+</p>
+
+### 🛠️ My Skills & Tools
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
+  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+
+### 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEN-CUA-BAN&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reallowii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallowii&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reallowii&theme=tokyonight" alt="reallowii-streak" />
+</p>
+
+### 🐍 My Contribution Snake (Animation "Độc Quyền")
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reallowii/reallowii/output/github-contribution-grid-snake.svg" alt="contribution snake">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reallowii&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
