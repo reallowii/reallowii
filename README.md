@@ -6,20 +6,35 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Nguyễn+Tín+(aka+Lowii)+👋;A+passionate+tech+explorer+from+Vietnam+🇻🇳;Born+22/06/2006;Diving+deep+into+all+aspects+of+code...;From+basics+to+advanced!+(Hack/Cheat+included+😉)" alt="Typing Animation" />
   </a>
   
-  <div>
-    <a href="https://nguywnntinn.xyz" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-nguywnntinn.xyz-blue?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://discordapp.com/users/real.lowii" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-real.lowii-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-    <a href="https://www.instagram.com/_ngtinn.22th06" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-_ngtinn.22th06-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="https://www.tiktok.com/@07th10.23" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-07th10.23-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-    </a>
-  </div>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://komarev.com/ghpvc/?username=reallowii">
+          <img src="https://komarev.com/ghpvc/?username=reallowii&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nguywnntinn.xyz" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-nguywnntinn.xyz-blue?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://discordapp.com/users/real.lowii" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-real.lowii-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/_ngtinn.22th06" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-_ngtinn.22th06-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.tiktok.com/@07th10.23" target="_blank">
+          <img src="https://img.shields.io/badge/TikTok-07th10.23-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -39,7 +54,7 @@
 
 ---
 
-## 📊 My GitHub Stats (Layout Mới Siêu Gọn)
+## 📊 My GitHub Stats (Layout 2 cột V4)
 
 <div align="center">
   <table width="100%" align="center">
@@ -59,7 +74,7 @@
 
 ---
 
-## 🐍 Here's My Contribution Snake (Giữ nguyên)
+## 🐍 My Contribution Snake
 
 <div align="center">
   <img src="https://readme-snake.vercel.app/api/snake?username=reallowii&color_snake=%2358A6FF&color_dots=%2330363D" alt="Snake animation" style="border-radius: 10px;"/>
@@ -67,6 +82,11 @@
 
 ---
 
-## 💻 My Featured Projects
+## 📰 My Latest Blog Posts & Projects
 
-> **Note:** I'm currently working on some exciting new projects. Stay tuned!
+> Lấy tự động từ [nguywnntinn.xyz](https://nguywnntinn.xyz)...
+---
+
+## 💻 My Featured Projects (Manual)
+
+> Các dự án ghim thủ công.
