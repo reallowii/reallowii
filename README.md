@@ -1,59 +1,67 @@
-<img align="right" src="https://i.imgur.com/67d3NCR.gif" width="230">
+<!-- Banner / Typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=26&pause=1000&color=12F7FF&center=true&vCenter=true&width=700&height=70&lines=Hey+there%2C+I'm+YOUR_NAME+👋;Developer+%7C+Designer+%7C+Creative+Human;Build+cool+stuff+and+break+things+too+😎" />
+</div>
 
-# 👋 Yo! I'm **YOUR_NAME**  
-🌙 *A random kid who codes, designs & builds cool things*
-
----
-
-### ☁️ About me
-- 🔭 Learning: **Web Dev • Design • Creative Projects**
-- 🎨 Sometimes developer, sometimes designer
-- 🚀 Dream: build something that millions of people use
-- ⚡ Fun fact: caffeine + music = unlimited productivity 😎
-
----
-
-### 🧩 Tech I play with
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,python,figma,git,github" />
+<!-- Avatar -->
+<p align="center">
+<img src="https://i.imgur.com/67d3NCR.gif" width="220px"/>
 </p>
 
 ---
 
-### 📈 My GitHub Vibes
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
-</div>
+## 🌌 Who am I?
+- 💻 Web Dev • UI/UX • Creative Projects  
+- 🎨 Half developer, half designer  
+- ⚡ Code at night, coffee in the morning  
+- 🚀 Trying to build things that *actually matter*
 
+---
+
+## 🧩 Tech Playground
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,ts,js,nodejs,python,html,css,figma,git,github,vscode" />
+</p>
+
+---
+
+## 📈 Stats that look cool ✨
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&stroke=0000&bg_color=0d1117" height="160" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
 </div>
 
 ---
 
-### ⭐ Featured Projects
-| Name | Description | Tech |
-|------|-------------|------|
-| 🔥 **Project One** | Beautiful portfolio with dark mode | React + Tailwind |
-| 🧊 **Project Two** | Mini tool or API something cool | NodeJS |
-| 🌐 **Project Three** | Experiments, animations, ui stuff | JS / CSS |
-
-👉 *Pin them on your profile for clean UI*
-
----
-
-### 🔗 Socials
-[![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_LINK)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LINK)
-
----
-
+## 🏆 Trophy Wall
 <div align="center">
-  
-### 🖤 *Thanks for visiting!*  
-> *If you’re reading this, you’re cool already.*
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
+
+---
+
+## 🐍 Contributions Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+| Project | What it is | Stack |
+|--------|------------|-------|
+| ⭐ **Portfolio NextJS** | Sleek, animation, dark mode | React • NextJS • Tailwind |
+| 🎨 **Design Tools** | Small tools that make life easier | JS / CSS |
+| 🚀 **API Playground** | Just me testing random stuff | NodeJS |
+
+👉 Pin them so your profile nhìn gọn – clean – chuyên nghiệp.
+
+---
+
+## 🎧 Vibe Check
