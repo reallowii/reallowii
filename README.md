@@ -1,33 +1,29 @@
 <p align="center">
-  <a href="nguywnntinn.xyz">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="600px" alt="Welcome Banner">
-  </a>
+  <img src="" width="800px" alt="Pixel Art Coding Under Sakura">
 </p>
 
-<h1 align="center">Hi there, I'm reallowii 👋</h1>
-<h3 align="center">A passionate [NGHỀ NGHIỆP CỦA BẠN, vd: Software Developer] from Vietnam 🇻🇳</h3>
+<h1 align="center">Hi there, I'm Nguyễn Tín (aka Lowii) 👋</h1>
+<h3 align="center">A Gen Z Developer from Vietnam 🇻🇳<br>Passionate about Web/App Dev & Scripting ✨</h3>
 
 <p align="center">
-  <a href="[LINK-LINKEDIN-CUA-BAN]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="[LINK-FACEBOOK-CUA-BAN]" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="mailto:[EMAIL-CUA-BAN]" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="[LINK-INSTAGRAM-CUA-BAN]" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="[LINK-TIKTOK-CUA-BAN]" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
 </p>
 <br>
 
-<p align="left">
-  - 🔭 I’m currently working on **[TÊN DỰ ÁN BẠN ĐANG LÀM]**
-  - 🌱 I’m currently learning **[CÔNG NGHỆ BẠN ĐANG HỌC]**
-  - 👯 I’m looking to collaborate on **[LOẠI DỰ ÁN BẠN MUỐN THAM GIA]**
-  - 🤔 I’m looking for help with **[THỨ BẠN ĐANG CẦN GIÚP]**
-  - 💬 Ask me about **[CHỦ ĐỀ BẠN TỰ TIN]**
-  - 📫 How to reach me: **[EMAIL/LINKEDIN CỦA BẠN]**
-  - ⚡ Fun fact: **[MỘT SỰ THẬT THÚ VỊ VỀ BẠN]**
+<p align="center">
+  🔭 I’m currently building awesome **Web & Mobile Apps**
+  <br>
+  🌱 I’m always learning and exploring **new technologies**
+  <br>
+  ⚡ Fun fact: I'm a **2k6** developer (22/06)
 </p>
 
 <br>
@@ -35,7 +31,7 @@
 <h3 align="center">🚀 My Tech Stack & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,docker,git,vscode,figma&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,lua,csharp,git,vscode&perline=5" />
   </a>
 </p>
 
@@ -43,14 +39,14 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEN-CUA-BAN&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEN-CUA-BAN&show_icons=true&locale=en&theme=bento&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEN-CUA-BAN&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEN-CUA-BAN&layout=compact&locale=en&theme=bento" alt="Top Languages" />
 </p>
 
 <br>
 
 <h3 align="center">🐍 My Contribution Snake</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEN-CUA-BAN&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEN-CUA-BAN&theme=bento&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
