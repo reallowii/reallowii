@@ -49,20 +49,20 @@
 ## 📊 My GitHub Stats
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=reallowii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Lowii's GitHub Stats" style="width: 100%; max-width: 500px; border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=reallowii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Lowii's GitHub Stats" style="width: 100%; max-width: 450px; border-radius: 10px;"/>
   <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reallowii&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Lowii's GitHub Streak" style="width: 100%; max-width: 500px; border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=reallowii&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Lowii's GitHub Streak" style="width: 100%; max-width: 450px; border-radius: 10px;"/>
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallowii&layout=compact&theme=tokyonight&border_radius=10&langs_count=10" alt="Lowii's Top Languages" style="width: 100%; max-width: 500px; border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallowii&layout=compact&theme=tokyonight&border_radius=10&langs_count=10" alt="Lowii's Top Languages" style="width: 100%; max-width: 350px; border-radius: 10px;"/>
   
 </div>
 
 ---
 
-## 💻 My Featured Projects (Manual)
+## 💻 My Featured Projects
 
-> **Note:** I'm currently working on some exciting new projects. Stay tuned!
-> 
-> *Tớ vẫn để trống phần này cho cậu. Đây là phần 'uy tín' nhất, hãy sớm thêm dự án của mình vào nhé!*
+> Đây là nơi tớ sẽ trưng bày những dự án "uy tín" nhất của mình.
+>
+> *Hãy chờ đón những điều thú vị...*
