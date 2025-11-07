@@ -44,25 +44,33 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,nodejs,python,go,rust,docker,kubernetes,git,vscode,figma,aws,linux,postman,mysql,mongodb,firebase,ps,ae&perline=9" alt="My Tech Stack"/>
 </div>
 
----
+<div align="center">
+  <img src="https://i.pinimg.com/originals/d6/d3/1c/d6d31c5192c72956c0717203f9a1b069.gif" width="100%" style="max-width: 600px; border-radius: 5px; margin-top: 20px; margin-bottom: 20px;" alt="Pixel Divider"/>
+</div>
 
 ## 📊 My GitHub Stats
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=reallowii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Lowii's GitHub Stats" style="width: 100%; max-width: 450px; border-radius: 10px;"/>
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reallowii&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Lowii's GitHub Streak" style="width: 100%; max-width: 450px; border-radius: 10px;"/>
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallowii&layout=compact&theme=tokyonight&border_radius=10&langs_count=10" alt="Lowii's Top Languages" style="width: 100%; max-width: 350px; border-radius: 10px;"/>
-  
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=reallowii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Lowii's GitHub Stats" style="width: 100%; max-width: 450px; border-radius: 10px;"/>
+      </td>
+      <td valign="top">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallowii&layout=compact&theme=tokyonight&border_radius=10&langs_count=10" alt="Lowii's Top Languages" style="width: 100%; max-width: 350px; border-radius: 10px;"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=reallowii&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Lowii's GitHub Streak" style="width: 100%; max-width: 450px; border-radius: 10px;"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<div align="center">
+  <img src="https://i.pinimg.com/originals/d6/d3/1c/d6d31c5192c72956c0717203f9a1b069.gif" width="100%" style="max-width: 600px; border-radius: 5px; margin-top: 20px; margin-bottom: 20px;" alt="Pixel Divider"/>
+</div>
 
 ## 💻 My Featured Projects
-
-> Đây là nơi tớ sẽ trưng bày những dự án "uy tín" nhất của mình.
->
-> *Hãy chờ đón những điều thú vị...*
+> Coming Soon...
