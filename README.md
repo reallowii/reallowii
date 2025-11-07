@@ -39,23 +39,37 @@
 
 ---
 
-## 🚀 About Me & My Tech Stack
-
-* 🌱 I’m on a quest to master **all technologies**.
-* 🌐 My personal portfolio: [nguywnntinn.xyz](https://nguywnntinn.xyz)
-* 📫 How to reach me: **real.lowii** on Discord.
-
-<br>
-
+## 🛠️ Tech Stack & Tools (Animated)
 <div align="center">
-  <h3>🛠️ Tech Stack & Tools I'm Exploring</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,nodejs,python,go,rust,docker,kubernetes,git,vscode,figma,aws,linux,postman,mysql,mongodb,firebase,ae,ps" alt="My Tech Stack"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vue-Dark.svg" alt="Vue" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Go.svg" alt="Go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AfterEffects.svg" alt="AfterEffects" width="40" height="40"/>
 </div>
 
 ---
 
-## 📊 My GitHub Stats (Layout 2 cột V4)
-
+## 📊 My GitHub Stats (Layout 2 cột)
 <div align="center">
   <table width="100%" align="center">
     <tr>
@@ -74,19 +88,16 @@
 
 ---
 
-## 🐍 My Contribution Snake
+## ⏰ My WakaTime Stats (Thời Gian Code Thực Tế)
+---
 
+## 🐍 My Contribution Snake
 <div align="center">
   <img src="https://readme-snake.vercel.app/api/snake?username=reallowii&color_snake=%2358A6FF&color_dots=%2330363D" alt="Snake animation" style="border-radius: 10px;"/>
 </div>
 
 ---
 
-## 📰 My Latest Blog Posts & Projects
-
-> Lấy tự động từ [nguywnntinn.xyz](https://nguywnntinn.xyz)...
----
-
 ## 💻 My Featured Projects (Manual)
 
-> Các dự án ghim thủ công.
+> **Note:** I'm currently working on some exciting new projects. Stay tuned!
