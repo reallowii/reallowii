@@ -2,15 +2,9 @@
 
   <img src="https://i.pinimg.com/originals/c1/9a/31/c19a31a1416c0296c03b13f36c5b2c7e.gif" alt="Lofi Pixel Art Banner" style="width: 100%; max-width: 600px; border-radius: 10px;"/>
   
-  <h1>
-    Hey there, I'm Nguyễn Tín (aka Lowii) 👋
-  </h1>
-  
-  <p>
-    A passionate tech explorer from Vietnam 🇻🇳 | Born 22/06/2006
-    <br />
-    Always diving deep into all aspects of code, from basics to advanced.
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Nguyễn+Tín+(aka+Lowii)+👋;A+passionate+tech+explorer+from+Vietnam+🇻🇳;Born+22/06/2006;Diving+deep+into+all+aspects+of+code...;From+basics+to+advanced!+(Hack/Cheat+included+😉)" alt="Typing Animation" />
+  </a>
   
   <div>
     <a href="https://nguywnntinn.xyz" target="_blank">
@@ -32,7 +26,7 @@
 
 ## 🚀 About Me & My Tech Stack
 
-* 🌱 I’m currently on a quest to master **all technologies**.
+* 🌱 I’m on a quest to master **all technologies**.
 * 🌐 My personal portfolio: [nguywnntinn.xyz](https://nguywnntinn.xyz)
 * 📫 How to reach me: **real.lowii** on Discord.
 
@@ -45,17 +39,27 @@
 
 ---
 
-## 📊 My GitHub Stats (Modern & Bo Góc)
+## 📊 My GitHub Stats (Layout Mới Siêu Gọn)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reallowii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Lowii's GitHub Stats" style="border-radius: 10px;"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallowii&layout=compact&theme=tokyonight&border_radius=10" alt="Lowii's Top Languages" style="border-radius: 10px;"/>
+  <table width="100%" align="center">
+    <tr>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=reallowii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Lowii's GitHub Stats" style="width: 100%; border-radius: 10px;"/>
+        <br/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=reallowii&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Lowii's GitHub Streak" style="width: 100%; border-radius: 10px;"/>
+      </td>
+      
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallowii&layout=compact&theme=tokyonight&border_radius=10&langs_count=10" alt="Lowii's Top Languages" style="width: 100%; border-radius: 10px;"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🐍 Here's My Contribution Snake (Animation Mới!)
+## 🐍 Here's My Contribution Snake (Giữ nguyên)
 
 <div align="center">
   <img src="https://readme-snake.vercel.app/api/snake?username=reallowii&color_snake=%2358A6FF&color_dots=%2330363D" alt="Snake animation" style="border-radius: 10px;"/>
