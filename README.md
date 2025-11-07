@@ -1,67 +1,57 @@
-<!-- Banner / Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=26&pause=1000&color=12F7FF&center=true&vCenter=true&width=700&height=70&lines=Hey+there%2C+I'm+YOUR_NAME+👋;Developer+%7C+Designer+%7C+Creative+Human;Build+cool+stuff+and+break+things+too+😎" />
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejl6eDJqbjV5cDZ1ajNqOWE5MDVzZ3ZkZGd5N255aXRmbnE2NmI3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmG2x4/giphy.gif" width="100%" alt="Pixel Art Lofi Room"/>
+  
+  <h1>
+    Hi there, I'm Nguyễn Tín (aka Lowii) 👋
+  </h1>
+  
+  <p>
+    A passionate tech enthusiast from Vietnam 🇻🇳 (born 22/06/2006).
+    <br />
+    My passion is exploring the full spectrum of code, from basic to advanced.
+  </p>
+  
+  <div align="center">
+    <a href="https://nguywnntinn.xyz" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-nguywnntinn.xyz-blue?style=for-the-badge&logo=website" alt="Portfolio"/>
+    </a>
+    <a href="https://discordapp.com/users/real.lowii" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-real.lowii-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="https://www.instagram.com/_ngtinn.22th06" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-_ngtinn.22th06-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://www.tiktok.com/@07th10.23" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-07th10.23-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    </a>
+  </div>
+  
+  <img src="https://i.pinimg.com/originals/59/8a/a5/598aa5add71081b76c6c06edc24f603c.gif" width="100%" alt="Pixel Divider"/>
 </div>
 
-<!-- Avatar -->
-<p align="center">
-<img src="https://i.imgur.com/67d3NCR.gif" width="220px"/>
-</p>
+## 🚀 About Me & Tech
+
+* 🌱 I’m currently learning **everything I can get my hands on**.
+* 🤔 Fun fact: My Facebook is temporarily disabled, but you can find me everywhere else!
+* 📫 How to reach me: **real.lowii** on Discord.
 
 ---
 
-## 🌌 Who am I?
-- 💻 Web Dev • UI/UX • Creative Projects  
-- 🎨 Half developer, half designer  
-- ⚡ Code at night, coffee in the morning  
-- 🚀 Trying to build things that *actually matter*
+## 📊 My GitHub Stats (Pixel & Bo Góc)
 
----
-
-## 🧩 Tech Playground
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,ts,js,nodejs,python,html,css,figma,git,github,vscode" />
-</p>
-
----
-
-## 📈 Stats that look cool ✨
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&stroke=0000&bg_color=0d1117" height="160" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-## 🐍 Contributions Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=reallowii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&pixel_art=true" alt="Lowii's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallowii&layout=compact&theme=dracula&border_radius=10&pixel_art=true" alt="Lowii's Top Languages" />
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 💻 My Featured Projects
 
-| Project | What it is | Stack |
-|--------|------------|-------|
-| ⭐ **Portfolio NextJS** | Sleek, animation, dark mode | React • NextJS • Tailwind |
-| 🎨 **Design Tools** | Small tools that make life easier | JS / CSS |
-| 🚀 **API Playground** | Just me testing random stuff | NodeJS |
+> **Note:** I'm currently working on some exciting new projects. Stay tuned!
 
-👉 Pin them so your profile nhìn gọn – clean – chuyên nghiệp.
-
----
-
-## 🎧 Vibe Check
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1cGN2MGRsYmN3M3N0NDFkNjN0ZGRjbjllZGFoaTRoNWFldGwyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4V2mqvv0wT99Kppn3/giphy.gif" width="300px" alt="Pixel Art Coding"/>
+</div>
