@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  <img align="right" width="45%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" width="45%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
   - 🧑‍💼 **Name:** Nguyễn Tín (aka **Lowii**)
   - 🎂 **Age:** 19 (Born: 22/06/2006)
@@ -27,10 +27,12 @@
 
 </p>
 
-### 📬 Connect with me
+### 📬 Connect with me & View my Portfolio
 
 <p align="left">
-  <a href="[LINK_FACEBOOK_CUA_BAN]" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="lowii-fb" /></a>
+  <a href="https://nguywnntinn.xyz" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-nguywnntinn.xyz-brightgreen?style=for-the-badge" alt="lowii-portfolio" /></a>
+  <a href="https://www.instagram.com/_ngtinn.22th06" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lowii-ig" /></a>
+  <a href="https://www.tiktok.com/@07th10.23" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="lowii-tiktok" /></a>
   <a href="mailto:[EMAIL_CUA_BAN]" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="lowii-email" /></a>
   <a href="https://discord.com/users/[YOUR_DISCORD_ID]" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="lowii-discord" /></a>
 </p>
